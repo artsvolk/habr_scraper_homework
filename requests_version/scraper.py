@@ -1,5 +1,3 @@
-# habr_scraper_requests/scraper.py
-
 import time
 from fake_headers import Headers
 import requests
